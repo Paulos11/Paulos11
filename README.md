@@ -35,17 +35,17 @@ Automated tool for creating professional presentations with customizable templat
 
 ## 🎨 Design Portfolio
 
-Check out my [design portfolio](https://your-portfolio-link.com) for UI/UX and graphic design samples.
+Check out my [design portfolio](#) for UI/UX and graphic design samples.
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-handle)
-- [Personal Website](https://your-website.com)
+- [LinkedIn](https://www.linkedin.com/in/sunil-lakandri-1543a7193/)
+- [Facebook](https://www.facebook.com/paul.lakandri.3)
+- [Personal Website](https://sunillakandri.com.np/)
 
 ## 💡 Fun Fact
 
-When I'm not coding or designing, you can find me singining a song in  [Youtube](https://your-website.com](https://www.youtube.com/@PaulLakandriOfficial)
+When I'm not coding or designing, you can find me singining a song in  [Youtube](https://sunillakandri.com.np/](https://www.youtube.com/@PaulLakandriOfficial)
 
 ---
 
