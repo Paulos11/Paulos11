@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Paulos11
+# 👋 Hi, I'm Paul Lakandri
 
 I'm a passionate full stack developer, UI/UX designer, and graphic designer. My expertise lies in bridging complex functionalities with intuitive interfaces, making technology accessible to all.
 
