@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hi, I'm Paul Lakandri<br>I'm a passionate full stack developer, UI/UX designer, and graphic designer. My expertise lies in bridging complex functionalities with intuitive interfaces, making technology accessible to all.<br><br>🚀 What I do<br>💻 Full Stack Development<br>🎨 UI/UX Design<br>🖌️ Graphic Design<be>
 💡 Fun Fact<br>When I'm not coding or designing, you can find me singining a song in Youtube. I am also a Songwriter and Singer.
 ## 🌐 Socials:
