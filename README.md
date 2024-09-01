@@ -12,7 +12,7 @@ When not coding or designing, I'm singing on YouTube. I'm also a songwriter!
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sunil-lakandri-1543a7193)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]([https://youtube.com/@UCBxS-Gem7PCWHYS2nxs3Q6g](https://www.youtube.com/@PaulLakandriOfficial/))
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@PaulLakandriOfficial/)
 
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
