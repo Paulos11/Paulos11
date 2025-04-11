@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Paul Lakandri
 
-**Full Stack Developer** • **UI/UX Designer** • **Graphic Designer**  
+**Full Stack Developer**
 Passionate about building intuitive, high-performance user experiences across web and mobile platforms.
 
 ---
