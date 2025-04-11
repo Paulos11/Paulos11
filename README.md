@@ -3,8 +3,6 @@
 **Full Stack Developer**
 Passionate about building intuitive, high-performance user experiences across web and mobile platforms.
 
----
-
 ⚛️ React & React Native • ▲ Next.js • 🔷 Vue.js • 💙 TypeScript  
 🌊 Tailwind CSS • ⚛️ Redux • ⚡ GraphQL
 
