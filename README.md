@@ -7,17 +7,15 @@ Passionate about building intuitive, high-performance user experiences across we
 🌊 Tailwind CSS • ⚛️ Redux • ⚡ GraphQL
 
 🟢 Node.js • 🐍 Python • 🎯 Django • ⚡ Express  
-💎 Prisma • 🔸 Laravel • 🐘 PHP • 🔌 RESTful APIs
+💎 Prisma • 🔌 RESTful APIs
 
 🐘 PostgreSQL • 🍃 MongoDB • 🐬 MySQL  
-🟥 Redis • 🔥 Firebase • ⚡ Supabase
+🟥 Redis •  ⚡ Supabase
 
 ☁️ AWS • 🐋 Docker • 🌿 Git • 🔄 CI/CD  
-🔗 Microservices • 📐 System Architecture & Design
 
 🎯 Figma • 🎨 Adobe Creative Suite  
 💡 UI/UX Design • 📐 Prototyping • 🧩 Component Libraries
 
 ---
-
 _Always learning, always building. Let's create something amazing! 🚀_
