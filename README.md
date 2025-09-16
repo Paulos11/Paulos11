@@ -1,21 +1,41 @@
-# 👋 Hi, I'm Paul Lakandri
+# Paul Lakandri
+**Full Stack JavaScript Developer**
 
-**Full Stack Developer**
-Passionate about building intuitive, high-performance user experiences across web and mobile platforms.
+Building scalable web and mobile applications with modern JavaScript technologies.
 
-⚛️ React & React Native • ▲ Next.js • 🔷 Vue.js • 💙 TypeScript  
-🌊 Tailwind CSS • ⚛️ Redux • ⚡ GraphQL
+## Tech Stack
 
-🟢 Node.js • 🐍 Python • 🎯 Django • ⚡ Express  
-💎 Prisma • 🔌 RESTful APIs
+**Frontend**
+- React & React Native
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Redux
 
-🐘 PostgreSQL • 🍃 MongoDB • 🐬 MySQL  
-🟥 Redis •  ⚡ Supabase
+**Backend**
+- Node.js
+- Express
+- GraphQL
+- RESTful APIs
 
-☁️ AWS • 🐋 Docker • 🌿 Git • 🔄 CI/CD  
+**Database & Storage**
+- PostgreSQL
+- MongoDB
+- Redis
+- Prisma ORM
 
-🎯 Figma • 🎨 Adobe Creative Suite  
-💡 UI/UX Design • 📐 Prototyping • 🧩 Component Libraries
+**Tools & Infrastructure**
+- AWS
+- Docker
+- Git
+- CI/CD
+- Supabase
+
+**Design & Collaboration**
+- Figma
+- UI/UX Design
+- Component Libraries
 
 ---
-_Always learning, always building. Let's create something amazing! 🚀_
+
+*Focused on delivering robust, user-centered solutions.*
