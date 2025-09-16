@@ -1,40 +1,9 @@
 # Paul Lakandri
 **Full Stack JavaScript Developer**
 
-Building scalable web and mobile applications with modern JavaScript technologies.
+Building scalable web and mobile applications with React, Next.js, and Node.js.
 
-## Tech Stack
-
-**Frontend**
-- React & React Native
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Redux
-
-**Backend**
-- Node.js
-- Express
-- GraphQL
-- RESTful APIs
-
-**Database & Storage**
-- PostgreSQL
-- MongoDB
-- Redis
-- Prisma ORM
-
-**Tools & Infrastructure**
-- AWS
-- Docker
-- Git
-- CI/CD
-- Supabase
-
-**Design & Collaboration**
-- Figma
-- UI/UX Design
-- Component Libraries
+**Stack:** React • Next.js • TypeScript • Node.js • PostgreSQL • AWS
 
 ---
 
