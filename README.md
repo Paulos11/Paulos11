@@ -1,4 +1,4 @@
-# Paul Lakandri
+# Sunil Lakandri
 **Full Stack JavaScript Developer**
 
 Building scalable web and mobile applications with React, Next.js, and Node.js.
